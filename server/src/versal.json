@@ -1,0 +1,16 @@
+{ 
+"builds": {
+  "default": "npx tsc",
+  "watch": "npx tsc --watch"
+},
+  "version": "1.0.0",
+  "description": "A description of my Versal app",
+  "author": "Your Name",
+  "main": "index.ts",
+  "scripts": {
+    "start": "npx nodemon"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
