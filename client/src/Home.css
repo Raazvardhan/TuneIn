@@ -1,0 +1,40 @@
+/* Home.css */
+.home-page header {
+  display: flex;
+  justify-content: flex-end;
+  padding: 10px;
+}
+
+.sign-in-button {
+  text-decoration: none;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border-radius: 5px;
+}
+
+.sign-in-button:hover {
+  background-color: #0056b3;
+}
+
+/* SignIn.css */
+.home form {
+  display: flex;
+  flex-direction: column;
+}
+
+.home form div {
+  margin-bottom: 10px;
+}
+
+.home form button {
+  padding: 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+.home form button:hover {
+  background-color: #0056b3;
+}
