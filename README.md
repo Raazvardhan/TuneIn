@@ -1,6 +1,3 @@
-Here's an updated README file with your GitHub URL:
-
----
 
 # Full-Stack Live Audio Room App
 
